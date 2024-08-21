@@ -1,0 +1,6 @@
+framework module Pods_docProject {
+  umbrella header "Pods-docProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
